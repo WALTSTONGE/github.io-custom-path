@@ -6,7 +6,7 @@ layout: default
 ## Potential Improvements for Comp110
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="<github.io-custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Summary of Analysis
 
@@ -14,15 +14,21 @@ In this assignment, I explored different ways to improve the Comp110 course movi
 
 ## Data Visualization 1: Office Hour Helpfulness
 
-<img src="<custom-path>/static/imgs/Screenshot 2026-04-27 135034.png" alt="FirstDataVis. "  width="500"/>
+<img src="<github.io-custom-path>/static/imgs/Screenshot 2026-04-27 135034.png" alt="FirstDataVis. "  width="500"/>
+
+The first visualization looks at students viewed the effectiveness of going to office hours. It clearly shows that a lot of people found them to be extremely helpful in completing assignments and understanding concepts.
 
 ## Data Visualization 2: Do Students go to Office Hours?
 
-<img src="<custom-path>/static/imgs/DataVis2.png" alt="SecondDataVis "  width="500"/>
+<img src="<github.io-custom-path>/static/imgs/DataVis2.png" alt="SecondDataVis "  width="500"/>
+
+The second visualization looks at how frequently students felt the need to go to office hours. While many did not attend, it is clear that there are still plenty of students who repeatedly visited.
 
 ## Data Visualization 3: How do Students View Office Hours Comparatively?
 
-<img src="<custom-path>/static/imgs/DataVis3.png" alt="ThirdDataVis "  width="500"/>
+<img src="<github.io-custom-path>/static/imgs/DataVis3.png" alt="ThirdDataVis "  width="500"/>
+
+The third visualization looks at the distribution of how students viewed office hour effectiveness. The average student appears to view them as very effective with most students acknowledging there use in some capacity.
 
 ## Final Conclusions
 
