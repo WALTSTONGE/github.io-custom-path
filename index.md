@@ -18,11 +18,11 @@ In this assignment, I explored different ways to improve the Comp110 course movi
 
 ## Data Visualization 2: Do Students go to Office Hours?
 
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="<custom-path>/static/imgs/DataVis2.png" alt="SecondDataVis "  width="500"/>
 
 ## Data Visualization 3: How do Students View Office Hours Comparatively?
 
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="<custom-path>/static/imgs/DataVis3.png" alt="ThirdDataVis "  width="500"/>
 
 ## Final Conclusions
 
