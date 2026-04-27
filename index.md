@@ -14,7 +14,7 @@ In this assignment, I explored different ways to improve the Comp110 course movi
 
 ## Data Visualization 1: Office Hour Helpfulness
 
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="<custom-path>/static/imgs/Screenshot 2026-04-27 135034.png" alt="FirstDataVis. "  width="500"/>
 
 ## Data Visualization 2: Do Students go to Office Hours?
 
